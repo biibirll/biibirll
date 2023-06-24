@@ -6,10 +6,10 @@
 - Comedor de pizza profissional.
 
 ## Meus projetos
-- [https://gabkenobi.github.io](gabkenobi.github.io)
+- [https://gabkenobi.github.io](https://gabkenobi.github.io)
 
 ## No que estou trabalhando
-- Certificação de [Design Responsivo para Web](https://www.freecodecamp.org/portuguese/learn/2022/responsive-web-design): [FreeCodeCamp](https://www.freecodecamp.org/portuguese);
+- [Certificação Bibliotecas de desenvolvimento em front-end](https://www.freecodecamp.org/portuguese/learn/front-end-development-libraries/): [FreeCodeCamp](https://www.freecodecamp.org/portuguese);
 
 
 ## O que eu domino
@@ -26,5 +26,4 @@
 
 ## Contato
 - E-mail: [gabriel.bonagio16@gmail.com](mailto:gabriel.bonagio16@gmail.com)
-- Twitter: [@gabkenobi](https://twitter.com/gabkenobi)
 - LinkedIn: [Gabriel Pires Bonagio](https://linkedin.com/in/gabonagio)
