@@ -1,5 +1,3 @@
-# Olá, eu sou Gabs!
-
 Sou programador por paixão e comedor de pizza por natureza. Fico muito feliz que você esteja dando uma olhada por aqui. Não repare se as coisas estiverem meio fora de lugar. Passo mais tempo programando que fazendo faxina no GitHub hahaha! Adoro me divertir com back e front, e às vezes dou uma olhada em algumas coisas de data science, mas sem compromisso.
 
 ## O que eu domino
@@ -18,8 +16,6 @@ Sou programador por paixão e comedor de pizza por natureza. Fico muito feliz qu
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/Gatsby-black?logo=gatsby&logoColor=white)
 
-## Contato
+## Onde me achar
 
-- Mastodon: <a rel="me" href="https://bolha.us/@biibirll">@biibirll@bolha.us</a>
-- LinkedIn: [Gabriel Pires Bonagio](https://linkedin.com/in/gabonagio)
-- E-mail: [gabriel.bonagio16@gmail.com](mailto:gabriel.bonagio16@gmail.com)
+Pra trocar figurinha, me encontra no Mastodon como <a rel="me" href="https://bolha.us/@biibirll">@biibirll@bolha.us</a>. Se quiser saber sobre a minha experiência profissional ou a minha formação acadêmica, dá uma olhada no meu perfil no [LinkedIn](https://linkedin.com/in/biibirll). Pra qualquer outra coisa, mande uma cartinha no e-mail [gabriel.bonagio16@gmail.com](mailto:gabriel.bonagio16@gmail.com).
