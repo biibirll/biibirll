@@ -1,4 +1,4 @@
-Sou programador por paixão e comedor de pizza por natureza. Fico muito feliz que você esteja dando uma olhada por aqui. Não repare se as coisas estiverem meio fora de lugar. Passo mais tempo programando que fazendo faxina no GitHub hahaha! Adoro me divertir com back e front, e às vezes dou uma olhada em algumas coisas de data science, mas sem compromisso. Vamos trocar figurinha no Mastodon: <a rel="me" href="https://bolha.us/@biibirll">@biibirll@bolha.us</a>.
+Sou programador por paixão e comedor de pizza por natureza. Fico muito feliz que você esteja dando uma olhada por aqui. Não repare se as coisas estiverem meio fora de lugar. Passo mais tempo programando que fazendo faxina no GitHub hahaha! Adoro me divertir com back e front, e às vezes dou uma olhada em algumas coisas de data science, mas sem compromisso.
 
 ## O que eu domino
 
