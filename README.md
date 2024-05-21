@@ -15,7 +15,3 @@ Sou programador por paixão e comedor de pizza por natureza. Fico muito feliz qu
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/Gatsby-black?logo=gatsby&logoColor=white)
-
-## Onde me achar
-
-Pra trocar figurinha, me encontra no Mastodon como <a rel="me" href="https://bolha.us/@biibirll">@biibirll@bolha.us</a>. Se quiser saber sobre a minha experiência profissional ou a minha formação acadêmica, dá uma olhada no meu perfil no [LinkedIn](https://linkedin.com/in/biibirll). Pra qualquer outra coisa, mande uma cartinha no e-mail [gabriel.bonagio16@gmail.com](mailto:gabriel.bonagio16@gmail.com).
